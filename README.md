@@ -1,1 +1,1 @@
-# NamedPipe Sameple
+# NamedPipe Sample
