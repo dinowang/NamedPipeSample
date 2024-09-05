@@ -1,6 +1,6 @@
 # NamedPipe Sample
 
-![Recording](./doc/recording/2024-09-05_21-08-50.mp4)
+[Recording](./doc/recording/2024-09-05_21-08-50.mp4)
 
 1. Left side `NamedPipeServer` (C#)
    - Process with 10 worker threads for named pipe server
